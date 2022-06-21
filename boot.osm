@@ -1,0 +1,3 @@
+label "loop"
+push log "helloword"
+goto "loop"
